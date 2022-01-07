@@ -1,4 +1,5 @@
 # aws-sam-lambda
+aws-sam-lambda
 
 This is a sample template for aws-sam-lambda - Below is a brief explanation of what we have generated for you:
 
